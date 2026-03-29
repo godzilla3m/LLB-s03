@@ -1,6 +1,6 @@
-Interpretation of statutes 
+# Interpretation of statutes 
 
-# Unit \- 1 
+# Unit - 1 
 
 ## Q1. What is 'Interpretation?' State the object of 'Interpretation.
 
