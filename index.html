@@ -1,10 +1,53 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
   <meta charset="UTF-8">
+  <title>LLB-s03</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css">
+  
+  <style>
+    /* 1. Make the overall font larger and more readable */
+    body {
+      font-size: 18px; 
+      line-height: 1.6;
+    }
+
+    /* 2. Make the main content area wider for big tables */
+    .markdown-section {
+      max-width: 90% !important; 
+      padding-left: 40px;
+      padding-right: 40px;
+    }
+
+    /* 3. Handle large tables with a scrollbar so they don't break layout */
+    table {
+      display: block;
+      width: 100%;
+      overflow-x: auto; 
+      word-break: normal;
+      border-collapse: collapse;
+      margin-bottom: 1rem;
+    }
+
+    /* 4. Make table cells look cleaner */
+    th, td {
+      padding: 12px !important;
+      border: 1px solid #dfe2e5;
+    }
+
+    th {
+      background-color: #f8f8f8;
+      font-weight: bold;
+    }
+
+    /* Sidebar font size tweak */
+    .sidebar ul li a {
+      font-size: 16px;
+    }
+  </style>
 </head>
 <body>
   <div id="app"></div>
@@ -12,8 +55,10 @@
     window.$docsify = {
       name: 'LLB-s03',
       repo: 'godzilla3m/LLB-s03',
-      loadSidebar: true, // This enables the sidebar
-      subMaxLevel: 2    // Shows headers from your .md files in the sidebar
+      loadSidebar: true, // Loads your _sidebar.md
+      subMaxLevel: 3,    // Shows up to H3 headers in the sidebar
+      auto2top: true,    // Scrolls to top when changing pages
+      mergeNavbar: true, // For mobile views
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
