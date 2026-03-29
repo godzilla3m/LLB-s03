@@ -1,6 +1,31 @@
 # LLB Study Resources ⚖️
-
 Welcome to the digital repository for my **Bachelor of Laws (LLB)** coursework. This site contains organized notes, statutes, and syllabus details for my current and past semesters.
+
+---
+
+## Timelines
+
+### 4th semester
+
+| Date | Event | Action/Status/Last date |
+| :--- | :--- | :--- |
+| 15 Mar | Admission Fee |  |
+| 05 Apr | Assignment Submission | |
+| 10 Apr | Exam Fee Deadline |  |
+| 25 Apr | Exams Start |  |
+
+### 3rd semester
+
+| Date | Event | Action/Status/Last date |
+| :--- | :--- | :--- |
+| 15 Mar | Admission Fee |  |
+| 05 Apr | Assignment Submission | |
+| 10 Apr | Exam Fee Deadline |  |
+| 25 Apr | Exams Start |  |
+
+---
+
+
 
 **Quick Navigation:**
 * **Semester 3:** BNSS, Company Law, CPC, and Interpretation of Statutes.
