@@ -1,4 +1,6 @@
-# Syllabus
+# Company law - 1
+
+Syllabus
 
 Company Law‑I (LL.B. 2nd Year, 3rd Semester – Paper 3\)
 
