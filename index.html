@@ -10,34 +10,41 @@
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-alerts/dist/styles.css">
   
   <style>
-    
-    /* 1. Make the overall font larger and more readable */
+    :root {
+      --theme-color: #007bff; /* Professional Blue */
+    }
+
+    /* 1. Typography and General Layout */
     body {
       font-size: 18px;
       line-height: 1.6;
     }
 
-    /* 2. Make the main content area wider for big tables */
+    /* 2. THE BIG FIX: Use full screen width like GitHub */
+    .content {
+      position: static !important;
+      width: 100% !important;
+    }
+
     .markdown-section {
-      max-width: 90% !important;
-      padding-left: 40px;
-      padding-right: 40px;
+      max-width: 100% !important; /* Removes the 800px narrow limit */
+      padding: 20px 30px !important; /* Smaller side gaps for mobile/desktop */
+      margin: 0 auto !important;
     }
 
-    /* 3. Handle large tables with a scrollbar so they don't break layout */
+    /* 3. High-Quality Tables */
     table {
-      display: block;
-      width: 100%;
-      overflow-x: auto;
-      word-break: normal;
+      display: table !important; /* Stretches to fill width */
+      width: 100% !important;
       border-collapse: collapse;
-      margin-bottom: 1rem;
+      margin-bottom: 1.5rem;
+      overflow-x: auto;
     }
 
-    /* 4. Make table cells look cleaner */
     th, td {
       padding: 12px !important;
       border: 1px solid #dfe2e5;
+      text-align: left;
     }
 
     th {
@@ -45,46 +52,37 @@
       font-weight: bold;
     }
 
-    /* Sidebar font size tweak */
+    /* 4. Link Styling */
+    .markdown-section a {
+      color: var(--theme-color) !important;
+      text-decoration: none;
+    }
+
+    .markdown-section a:hover {
+      text-decoration: underline;
+    }
+
+    /* 5. Mobile Sidebar Toggle (Top Left) */
+    .sidebar-toggle {
+      bottom: auto !important;
+      top: 10px !important;
+      left: 10px !important;
+      background-color: rgba(255, 255, 255, 0.9) !important;
+      border-radius: 4px;
+      width: 35px !important;
+      height: 35px !important;
+      padding: 5px !important;
+    }
+
+    /* Sidebar text size */
     .sidebar ul li a {
       font-size: 16px;
     }
-    /* Move the mobile menu toggle to the top left */
-.sidebar-toggle {
-  bottom: auto !important;
-  top: 0 !important;
-  left: 0 !important;
-  right: auto !important;
-  background-color: rgba(255, 255, 255, 0.8) !important;
-  padding: 10px !important;
-  width: 30px !important;
-  height: 30px !important;
-}
 
-/* Adjust the sidebar position so it doesn't overlap the new button location */
-section.content {
-  padding-top: 20px;
-}
-
-@media screen and (max-width: 768px) {
-  .sidebar-toggle {
-    margin: 10px;
-  }
-}
-    /* Change the primary theme color to a professional Blue */
-:root {
-  --theme-color: #007bff; /* Standard modern Bootstrap Blue */
-}
-
-/* Ensure links in the text are also blue and underlined on hover */
-.markdown-section a {
-  color: #007bff !important;
-  text-decoration: none;
-}
-
-.markdown-section a:hover {
-  text-decoration: underline;
-}
+    /* Adjust content for the new toggle position */
+    section.content {
+      padding-top: 40px;
+    }
   </style>
 </head>
 <body>
@@ -92,19 +90,28 @@ section.content {
   <script>
     window.$docsify = {
       name: 'LLB-s03',
-      // repo: 'godzilla3m/LLB-s03', <-- DELETE OR COMMENT OUT THIS LINE
-      loadSidebar: true, // Loads your _sidebar.md
-      subMaxLevel: 3,    // Shows up to H3 headers in the sidebar
-      auto2top: true,    // Scrolls to top when changing pages
-      mergeNavbar: true, // For mobile views
+      loadSidebar: true,
+      subMaxLevel: 3,
+      auto2top: true,
+      mergeNavbar: true,
+      // Markdown Alerts Configuration
+      'alerts': {
+        theme: 'vue',
+      }
     }
   </script>
+  
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-alerts/dist/index.min.js"></script>
+  
   <script src="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
-<script>
-  var config = { startOnLoad: true, flowChart: { useMaxWidth: true, htmlLabels: true } };
-  mermaid.initialize(config);
-</script>
+  <script>
+    var config = { 
+      startOnLoad: true, 
+      flowChart: { useMaxWidth: true, htmlLabels: true },
+      theme: 'default'
+    };
+    mermaid.initialize(config);
+  </script>
 </body>
 </html>
