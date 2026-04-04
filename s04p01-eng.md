@@ -1,8 +1,8 @@
 # BSA
 
-# 2025
+## 2025
 
-## Question 1: Discuss and distinguish between proved, dis-proved and not proved.
+### Question 1: Discuss and distinguish between proved, dis-proved and not proved.
 
 **Introduction** The concepts of "Proved," "Disproved," and "Not Proved" are the fundamental standards by which a Court evaluates the existence or non-existence of facts. These terms do not imply absolute mathematical certainty but rather refer to the degree of belief or probability that a judge reaches after considering all the materials on record. Under **Section 2** of the **Bhartiya Sakshya Adhiniyam, 2023**, these terms are legally defined to guide judicial reasoning.
 
@@ -58,7 +58,7 @@ The primary distinction lies in the state of mind of the Court after evaluating 
 
 ---
 
-## Question 2: Discuss the theory of relevancy and admissibility. Whether both are same or different?
+### Question 2: Discuss the theory of relevancy and admissibility. Whether both are same or different?
 
 **Introduction** 
 
@@ -136,7 +136,7 @@ In summary, Relevancy and Admissibility are not the same. Relevancy is the test 
 
 ---
 
-## Question 3: "Facts which, though not in issue, are so connected with a fact in issue, as to form part of the same transaction, are relevant, whether they occurred at the same time and place or at different times and places." Comment and give illustrations.
+### Question 3: "Facts which, though not in issue, are so connected with a fact in issue, as to form part of the same transaction, are relevant, whether they occurred at the same time and place or at different times and places." Comment and give illustrations.
 
 **Introduction** The statement provided in the question is the verbatim text of **Section 4** of the **Bhartiya Sakshya Adhiniyam, 2023**. This section embodies the legal doctrine of **Res Gestae**, a Latin phrase meaning "things done" or "part of the transaction". It serves as an important exception to the general rule that "hearsay evidence is no evidence," allowing for the admission of statements or acts that are so closely tied to the main event that they are considered a part of it.
 
@@ -189,7 +189,7 @@ The BSA provides several key illustrations to explain how this connection works 
 
 ---
 
-## Question 4: What is admission? Who can make it? When can it be used by or on behalf of the person making it?
+### Question 4: What is admission? Who can make it? When can it be used by or on behalf of the person making it?
 
 ---
 
@@ -316,7 +316,7 @@ However, there are **three critical exceptions** where you can use your own admi
 
 ---
 
-## Question 5: Who is an expert? What is the difference between an expert and ordinary witness?
+### Question 5: Who is an expert? What is the difference between an expert and ordinary witness?
 
 **Introduction**
 
@@ -362,7 +362,7 @@ In the BSA, the expert acts as a bridge between complex science and the hall of 
 
 ---
 
-## Question 6: What is dying declaration? State the grounds on which a dying declaration is admitted in evidence.
+### Question 6: What is dying declaration? State the grounds on which a dying declaration is admitted in evidence.
 
 ---
 
@@ -449,7 +449,7 @@ While a dying declaration is substantive evidence, courts approach it with cauti
 
 ---
 
-## Question 7: Define judicial notice and discuss the circumstance in which court shall take the judicial notice.
+### Question 7: Define judicial notice and discuss the circumstance in which court shall take the judicial notice.
 
 ---
 
@@ -536,7 +536,7 @@ Even though the law says the Court "shall" take notice, a Judge is still a human
 
 ---
 
-## Question 8: Define Estoppel. What are the essential ingredients of estoppel?
+### Question 8: Define Estoppel. What are the essential ingredients of estoppel?
 
 ---
 
@@ -606,7 +606,7 @@ Estoppel is essentially a rule of "fair play" in the legal system. It prevents t
 
 ---
 
-## Question 9: What are leading questions? When can leading questions be asked?
+### Question 9: What are leading questions? When can leading questions be asked?
 
 The definition of a **leading question** is found in **Section 146(1)** of the **Bhartiya Sakshya Adhiniyam, 2023**. 
 
@@ -634,7 +634,7 @@ In conclusion, the legal framework for **leading questions** under **Section 146
 
 ---
 
-## Question 10: When can improper admission or rejection of evidence be ground for retrial or reversal of the decision in any case?
+### Question 10: When can improper admission or rejection of evidence be ground for retrial or reversal of the decision in any case?
 
 **Introduction to Section 169** Under the **Bhartiya Sakshya Adhiniyam (BSA), 2023**, the rules regarding the consequences of mistakes made by a trial court in admitting or rejecting evidence are governed by **Section 169**. This section is based on the principle of "substantial justice," meaning that a higher court will not overturn a judgment or order a retrial just because of a technical error in evidence, provided the final outcome of the case was correct.
 
