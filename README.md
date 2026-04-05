@@ -3,18 +3,26 @@ Welcome to the digital repository for my **3 year Bachelor of Laws (LLB)** cours
 
 ---
 
-## Timelines
+## 4th semester
 
-### 4th semester
+### 6 compulsory theory papers
 
-| Date | Event | Action/Status/Last date |
+1. BHARTIYA SAKSHYA ADHINIYAM
+2. LABOUR LAW II
+3. COMPANY LAW-II
+4. CODE OF CIVIL PROCEDURE & LAW OF LIMITATION -II
+5. BHARATIYA NAGARIK SURAKSHA SANHITA II
+6. PROPERTY LAW AND EASEMENT
+
+| Date | Event | Note |
 | :--- | :--- | :--- |
-| 15 Mar | Admission Fee |  |
-| 05 Apr | Assignment Submission | |
-| 10 Apr | Exam Fee Deadline |  |
-| 25 Apr | Exams Start |  |
+| 27-2-2026 | Admission Fee Deadline |  |
+| 8-4-2026 | Exam Form & Fee Deadline | https://exam.lkouniv.ac.in/apps |
+| 11 Apr | Assignment Submission Deadline | |
+| 15-17 Apr | Internal Exam | |
+|  | Exams Start |  |
 
-### 3rd semester
+## 3rd semester
 
 | Date | Event | Action/Status/Last date |
 | :--- | :--- | :--- |
