@@ -625,3 +625,4 @@ More importantly, Section 4(6)(b) says that the gratuity may be **Wholly or Part
 
 In conclusion, the Payment of Gratuity Act ensures that workers are rewarded for their loyalty, but it also demands a certain standard of conduct. In the first scenario, the law acts as a **Social Safety Net**, bypassing the 5-year requirement to help a disabled worker. In the second scenario, the law protects the employer's interests by allowing the **Forfeiture** of funds if a worker is guilty of serious misconduct like moral turpitude. While the calculations provide a clear financial figure, the final payment always depends on whether the legal conditions for eligibility or forfeiture are met. Understanding these nuances is vital for ensuring that justice is served to both the employee and the employer in industrial relations.
 
+checking-text
