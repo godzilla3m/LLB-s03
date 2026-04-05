@@ -5,7 +5,7 @@
   <title>LLB-LU</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  
+
   <meta name="title" content="LLB-LU">
   <meta name="description" content="Law Notes and Resources for LLB Students.">
   <meta property="og:type" content="website">
@@ -24,7 +24,7 @@
     
     /* This creates the necessary 'gap' for both phone and PC */
     scroll-padding-top: 80px !important; 
-    scroll-behavior: smooth;
+    scroll-behavior: ;
   }
 
   /* 1. Typography */
@@ -58,6 +58,32 @@
       border-right: 1px solid #eee;
     }
 
+    .sidebar-nav ul li a {
+      font-size: 15px !important;
+      /* 800 is 'Extra Bold', giving it the heavy look you want */
+      font-weight: 800 !important; 
+      color: #444746 !important;   /* Deepest black for maximum clarity */
+      margin: 4px 12px !important;
+      border-radius: px !important;
+      display: block;
+      text-decoration: none;
+      letter-spacing: -0.3px; /* Slightly tighter letters look even bolder */
+    }
+
+      .sidebar-nav li.active > a {
+      /* Change text to Blue */
+      color: #0026ff !important; 
+      /* Gemini-style light blue 'pill' background */
+      background-color: #d6e3ff !important; 
+      /* Extra weight for the active link */
+      font-weight: 900 !important;
+    }
+
+      .sidebar-nav ul li a:hover {
+      background-color: #d6e3ff !important;
+      color: #0019fa !important;
+    }
+
     /* Content sits exactly next to the sidebar within the paper */
     .content {
       position: absolute !important;
@@ -88,8 +114,14 @@
   /* 3. MOBILE VIEW (Phone stays edge-to-edge) */
   @media screen and (max-width: 768px) {
     body { background-color: white !important; }
-    .content { position: static !important; width: 100% !important; }
-    .markdown-section { padding: 0px !important; }
+    .content { position: static !important; width: 100% !important; 
+      left: 0 !important; margin: 0 !important;
+    }
+    .markdown-section { padding: 0px !important; 
+      max-width: 95% !important;
+      padding: 15px 10px !important;
+      margin: 20px !important;   
+    }
     .sidebar-toggle { left: 10px !important; }
   }
 
@@ -107,12 +139,29 @@
   th { background-color: #f8f8f8; font-weight: bold; }
 
   /* 5. Sidebar Toggle Z-Index */
+  @media screen and (max-width: 768px) {
   .sidebar-toggle {
-    bottom: auto !important;
-    top: 10px !important;
-    background-color: rgba(255, 255, 255, 0.9) !important;
-    z-index: 1000;
+    /* 'Fixed' makes it stay in one spot while scrolling */
+    position: fixed !important; 
+    
+    /* 1001 is higher than the 999 top bar, so it 'floats' on top */
+    z-index: 1001 !important; 
+    
+    /* Positioning it perfectly in the top-left corner */
+    left: 0 !important;
+    top: 0 !important;
+    
+    /* Making the clickable area large and snappy */
+    width: 60px !important;
+    height: 60px !important;
+    
+    /* Removing background to keep it clean */
+    background: transparent !important;
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
   }
+}
 </style>
 </head>
 <body>

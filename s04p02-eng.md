@@ -392,3 +392,236 @@ Even if an employee has worked for the whole year, they can lose their right to 
 **Conclusion**
 
 The Payment of Bonus Act, 1965, balances the interests of both the worker and the employer. By defining the **Accounting Year**, it creates a clear timeframe for calculating profits. By setting a **30-day minimum**, it ensures that even short-term workers get a fair share, while the **Disqualification** rules ensure that workers maintain discipline and honesty. Ultimately, the bonus serves as an incentive for workers to help the company grow, ensuring that as the "personality" of the business develops, the "human dignity" and financial status of the worker also improve.
+
+## 2024
+
+### Elaborate appointment and reference to the Commissioner. What are the power and procedure of the Commissioner?
+
+**Introduction**
+
+The Employee's Compensation Act, 1923, was created to provide financial protection to workers who suffer injuries or death during their employment. To ensure that these workers or their families get justice without the long delays of regular civil courts, the Act provides for a special officer called the Commissioner. The Commissioner (**आयुक्त - Aayukt**) is a quasi-judicial authority. This means they have some powers like a judge but follow a simpler process. They are responsible for deciding if compensation is due, how much should be paid, and who should receive it. Their role is central to the implementation of labor welfare laws in India.
+
+**Appointment of the Commissioner**
+
+The **Appointment (नियुक्ति - Niyukti)** of the Commissioner is governed by Section 20 of the Employee's Compensation Act. According to this section, the State Government has the power to appoint one or more Commissioners for specific local areas by notification in the Official Gazette. 
+
+The State Government looks for certain qualifications when appointing a Commissioner. Generally, a person who is a member of the State Judicial Service or a legal practitioner of several years of standing is preferred. Sometimes, senior gazetted officers are also appointed. If the State Government appoints more than one Commissioner for the same area, it will also specify how the work will be distributed between them. The State Government may also appoint an Additional Commissioner if the workload is high. These officers are considered "public servants" under the Indian Penal Code.
+
+**Reference to the Commissioner**
+
+The term **Reference (संदर्भ - Sandarbh)** refers to how a matter or dispute is brought before the Commissioner for a decision. Under Section 19 of the Act, if any question arises regarding the liability of an employer to pay compensation, it must be settled by the Commissioner. 
+
+A reference can be made to the Commissioner if there is a dispute regarding:
+1. Whether a person is a "workman" or "employee" as per the law.
+2. The nature and extent of the disablement (temporary or permanent).
+3. The amount of compensation to be paid.
+4. The duration for which the compensation should be given.
+
+It is important to note that Civil Courts have no jurisdiction over these matters. If a workman wants to claim compensation under this Act, they must go to the Commissioner. The application for a reference must be filed in the area where the accident took place, where the workman resides, or where the employer’s office is located.
+
+**Powers of the Commissioner**
+
+The Commissioner is given significant **Powers (शक्तियाँ - Shaktiyan)** to perform their duties effectively. Under Section 23, the Commissioner has the powers of a Civil Court under the Code of Civil Procedure (CPC) for the following purposes:
+1. **Summoning Witnesses:** They can order any person to appear before them to give evidence.
+2. **Production of Documents:** They can compel the employer or any other person to produce necessary records, like wage slips or medical reports.
+3. **Taking Evidence on Oath:** They can record statements under oath to ensure honesty.
+4. **Local Inspection:** Under Section 24, the Commissioner has the power to enter and inspect any place where an industrial accident has occurred. This helps them understand the situation firsthand.
+5. **Awarding Costs:** They can decide which party should pay the legal costs of the proceedings.
+6. **Recovery of Money:** If an employer refuses to pay the awarded compensation, the Commissioner can recover it as "arrears of land revenue."
+
+**Procedure followed by the Commissioner**
+
+The **Procedure (प्रक्रिया - Prakriya)** followed by the Commissioner is designed to be faster and less formal than a regular court.
+1. **Filing Application:** The process begins when the injured worker or their dependents file an application in the prescribed format.
+2. **Notice to Employer:** Once the application is received, the Commissioner sends a notice to the employer to respond within a specific time.
+3. **Preliminary Inquiry:** The Commissioner may hold a brief inquiry to see if there is a valid case.
+4. **Examination of Parties:** The Commissioner listens to both the employer and the employee. They may record the substance of the evidence in a brief manner (Summary Procedure).
+5. **Medical Examination:** If there is a dispute about the injury, the Commissioner can refer the workman to a qualified medical practitioner.
+6. **Final Order:** After hearing both sides and checking the evidence, the Commissioner passes a final order, which is called an "Award."
+
+**Conclusion**
+
+In conclusion, the Commissioner for Employee's Compensation plays a vital role in protecting the rights of the labor class. By providing a specialized **Appointment** process and clear **Reference** rules, the law ensures that experts handle these sensitive cases. The wide **Powers** and simplified **Procedure** allow for a quick resolution of disputes. This ensures that a worker who has lost their livelihood due to an accident is not left at the mercy of complex legal systems, but receives fair and timely compensation.
+
+
+### An Indian Industry sends 15 employees to work U.A.E. at rate of Rs. 45,000. A 25 year old drunked employees permanently disabled due to fall down on the running machine. The relevant factor of such employee of U.A.E. laws is 475. State liabilities of compensation of Indian Industry and U.A.E
+
+**Introduction**
+
+The Employee's Compensation Act, 1923, is a social security legislation meant to provide financial relief to employees in case of workplace accidents. This case involves an Indian industry sending its workers to the United Arab Emirates (U.A.E.). When an Indian employer recruits workers in India to work abroad, the laws of India still protect those workers under certain conditions. This is known as **Extra-territorial application (अतिरिक्त-क्षेत्रीय अनुप्रयोग - Atirikt-kshetriya anuprayog)** of the law. In this specific scenario, we need to examine the **Liability (दायित्व - Dayitva)** of the Indian employer, considering the nature of the accident and the state of the employee at the time of the injury.
+
+**Liability of the Indian Industry**
+
+Under Section 15B of the Employee's Compensation Act, the provisions of the Act apply to employees recruited by Indian companies to work outside India. This means that if an Indian worker is injured while working in the U.A.E., they can generally claim compensation from their Indian employer. However, Section 3 of the Act sets specific rules for when an employer is liable and when they are not.
+
+The first major hurdle in this case is the **Condition (शर्त - Shart)** of the employee. The problem states the employee was "drunked" (intoxicated) at the time of the accident. Section 3(1)(b)(i) of the Act clearly states that the employer shall not be liable to pay compensation in respect of any injury, **not resulting in death**, which is caused by an accident directly attributable to the employee being under the influence of drink or drugs. 
+
+Since the employee in this case is **Permanently Disabled (स्थायी रूप से विकलांग - Sthayi roop se viklang)** and has not died, the Indian Industry can use the defense of **Intoxication (नशा - Nasha)**. If it is proved that the fall was directly caused because the worker was drunk, the Indian employer may be legally exempted from paying any compensation under the Indian Act. 
+
+**Calculation of Compensation (If Liable)**
+
+If we assume for a moment that the drunkenness was not the direct cause, or if the court takes a lenient view, the **Calculation (गणना - Ganna)** would be based on the formula provided in the Act. For permanent total disablement, the amount is usually **60% of the monthly wages multiplied by the relevant factor**. 
+
+The wages are mentioned as Rs. 45,000. However, the Indian law usually has a "wage cap" for calculation purposes (currently Rs. 15,000 for calculation). The question provides a "relevant factor" of 475 from U.A.E. laws. Generally, in legal problems where a specific factor is provided, the student is expected to use that factor. 
+
+The calculation would look like this: 
+**Compensation = 60% of Wages x Relevant Factor**
+Assuming the wage cap of Rs. 15,000 (as per Indian Law): $9,000 \times 475 = 42,75,000$.
+If the Indian court applies the U.A.E. factor as per the employment contract, the liability could be very high. But again, the drunkenness remains a solid legal defense for the employer to deny the claim entirely.
+
+**Liability under U.A.E. Laws**
+
+Regarding the U.A.E. liability, the worker is governed by the local labor laws of the country where the work is performed. Most U.A.E. labor laws also have strict rules against being under the influence of alcohol at the workplace. If the U.A.E. law also has a similar clause against **Willful Disobedience (जानबूझकर अवज्ञा - Jaanboojhkar avagya)** or intoxication, the U.A.E. entity might also deny compensation. 
+
+However, usually, the worker cannot get **Double Compensation (दोहरा मुआवजा - Dohra muavza)**. If they receive money in the U.A.E., it will be adjusted against any claim made in India. The U.A.E. law is relevant here mainly for the "Relevant Factor" mentioned in the question, which is much higher than the factors usually found in the Indian schedule (where the max factor for age 25 is around 216.91).
+
+**Conclusion**
+
+In conclusion, while the Indian Industry is generally liable for its workers abroad, the fact that the employee was drunk at the time of a non-fatal accident changes the legal position. Under Section 3(1)(b) of the Employee's Compensation Act, the Indian Industry is likely **Not Liable** for compensation because the permanent disability resulted from an accident caused by intoxication. If the injury had resulted in death, the employer would have been liable regardless of the drunkenness. Therefore, the employee's own misconduct serves as a complete bar to his claim for compensation in this specific instance.
+
+### Explain the following: (a) National Extension theory (b) Contracting out
+
+**Introduction**
+
+The Employee's Compensation Act, 1923, aims to provide financial support to workers who suffer from accidents or occupational diseases. To make this law effective, the courts and the legislature have developed certain principles to ensure that employers cannot escape their liability using technical excuses. Two such important concepts are the **Theory of Notional Extension** (often referred to as National Extension in common parlance) and the rule against **Contracting Out**. While the first concept expands the scope of when an employer is responsible for an accident, the second ensures that an employee cannot be forced to give up their legal rights through a private agreement. Both are essential for the protection (**संरक्षण - Sanrakshan**) of labor rights in India.
+
+**Notional Extension Theory**
+
+The **Theory of Notional Extension (काल्पनिक विस्तार का सिद्धांत - Kalpnik Vistar ka Siddhant)** is a legal rule used to determine whether an accident happened "in the course of employment." Generally, an employer is only liable if the accident happens while the worker is doing their job at the workplace. However, this theory "extends" the definition of the workplace and work hours. It suggests that employment does not always begin only when the worker reaches the tool-bench and end when they leave it.
+
+Under this theory, the "course of employment" may begin before the worker actually starts work or continue after they have finished. For the employer to be held liable under this theory, there must be a **Causal Link (कारण संबंध - Karan Sambandh)** between the employment and the accident. The court looks at whether the employee was at a particular place or doing a particular thing because of their job. 
+
+A classic example is when an employer provides a bus to pick up workers from their homes. If a worker is injured in an accident while riding that bus, the Theory of Notional Extension applies. Even though the worker was not yet at the factory, they were in the "sphere of employment" because they were using the transport provided by the employer. However, if a worker is using a public bus or their own bike on a public road, this theory usually does not apply unless the road is the only means of access to the workplace. This concept ensures that workers are protected during the "reasonable" time and space required to enter or leave the place of work.
+
+**Contracting Out**
+
+The concept of **Contracting Out (अनुबंध से बाहर निकलना - Anubandh se bahar nikalna)** is dealt with under Section 17 of the Employee's Compensation Act. In simple terms, it means an agreement where a worker gives up their right to receive compensation from the employer. In many cases, an employer might use their superior position to force a worker to sign a contract stating that the worker will not claim any money if they get injured.
+
+Section 17 of the Act clearly states that any such contract or agreement is **Null and Void (शून्य और अमान्य - Shoonya aur Amanya)**. The law does not allow a worker to "contract out" of their rights. Even if the worker has signed the document willingly, the law will ignore it. 
+
+The reason behind this rule is **Public Policy (लोक नीति - Lok Neeti)**. Lawmakers realized that there is a huge power gap between an uneducated or poor laborer and a powerful industrialist. If "contracting out" were allowed, almost every employer would make it a condition of the job, and the social security purpose of the Act would be destroyed. Therefore, the right to compensation is considered an "inalienable right" that cannot be traded away for a job or a small lump sum payment. Any agreement that tries to reduce the employer's liability below what is fixed by the Act is legally worthless.
+
+**Conclusion**
+
+In conclusion, these two principles act as pillars of social justice for the working class. The **Theory of Notional Extension** prevents employers from using narrow physical boundaries to deny compensation, acknowledging that the risks of a job often start before the actual work begins. On the other hand, the prohibition of **Contracting Out** protects workers from being exploited into surrendering their legal safeguards. Together, they ensure that the Employee's Compensation Act remains a powerful tool for the welfare of workers, ensuring they receive the support they deserve in the event of an unfortunate workplace tragedy.
+
+### Describe the restriction on employment of pregnant woman worker. Focus on right to get maternity benefit and medical bonus.
+
+**Introduction**
+
+The Maternity Benefit Act, 1961, is a very important law in India designed to protect the health and dignity of women workers. It ensures that women do not have to choose between their jobs and their motherhood. The Act provides for **Maternity Benefit (मातृत्व लाभ - Matritva Labh)**, which is a payment made to a woman for the period she is absent from work due to pregnancy and childbirth. It also places certain duties on the employer to ensure that a pregnant woman is not forced to do hard physical work. This law is a step toward achieving social justice and protecting the rights of women in the workforce.
+
+**Restrictions on Employment**
+
+Under Section 4 of the Act, there are clear **Restrictions (प्रतिबंध - Pratibandh)** on the employment of pregnant women. The law says that no employer shall knowingly employ a woman in any factory or shop during the six weeks immediately following the day of her delivery or miscarriage. This is to ensure her body has enough time to recover.
+
+Furthermore, a pregnant woman has the right to ask for lighter work. During the period of one month before her expected delivery, she should not be given any work that is:
+1. Arduous in nature (very tiring or difficult).
+2. Involves long hours of standing.
+3. Likely to interfere with her pregnancy or the normal development of the baby.
+4. Likely to cause a miscarriage or harm her health in any way.
+The employer is not allowed to reduce her salary just because she is given lighter duties during this period.
+
+**Right to Get Maternity Benefit**
+
+The most important part of this law is the **Right to Payment (भुगतान का अधिकार - Bhugtan ka Adhikar)**. A woman is entitled to receive maternity benefit at the rate of her average daily wage. However, to be eligible, she must have worked for the employer for at least 80 days in the 12 months before her expected delivery date.
+
+According to the latest rules, the maximum period for which a woman can get maternity benefit is **26 weeks**. Out of these 26 weeks, she can take up to 8 weeks before the expected date of delivery, and the remaining period after the birth of the child. If a woman already has two or more children, this benefit is limited to 12 weeks only. This payment ensures that the woman has financial security while she is away from work taking care of her health and her newborn baby.
+
+
+
+**Medical Bonus**
+
+Apart from the regular wages paid during the leave, Section 8 of the Act provides for a **Medical Bonus (चिकित्सा बोनस - Chikitsa Bonus)**. This is an extra lump sum payment given to the woman worker. The purpose of this bonus is to help her meet the medical expenses related to her pregnancy.
+
+There is one important condition: the employer is required to pay this medical bonus only if they do not provide free **Pre-natal and Post-natal Care (प्रसव-पूर्व और प्रसव-पश्चात देखभाल - Prasav-poorv aur prasav-pashchat dekhbhal)**. If the company has its own hospital or provides free medical check-ups for the pregnant employee, they do not have to pay this bonus. The amount of this bonus is decided and updated by the Government from time to time.
+
+**Example and Illustration**
+
+Imagine a woman named Priya who works in a software company. When Priya becomes pregnant, she informs her boss. The company must then ensure she doesn't have to work late nights or do stressful tasks that could hurt her health. If Priya has worked there for more than 80 days, she can take 26 weeks of paid leave. If the company doesn't provide a doctor for her check-ups, they must pay her the medical bonus (for example, Rs. 3,500) along with her salary for those 26 weeks.
+
+**Conclusion**
+
+In conclusion, the restrictions on employment and the provision for maternity benefits are essential for the welfare of women workers. By ensuring that women are not overworked during pregnancy and are paid during their leave, the law protects both the mother and the child. The addition of a medical bonus further helps in covering health costs. These rules make the workplace safer and more supportive for women, allowing them to continue their careers while fulfilling their personal responsibilities. This law is not just a benefit; it is a fundamental right of every working woman in India.
+
+### Elaborate the following points: (a) Penalty to the employer for contravention of the Act (b) Complaint and cognizance of offences
+
+**Introduction**
+
+The Maternity Benefit Act, 1961, was enacted to protect the rights of working women during their pregnancy and after childbirth. However, a law is only effective if there are strict consequences for those who do not follow it. To ensure that employers respect the rights of women workers, the Act includes specific provisions for **Punishment (दंड - Dand)** and legal procedures. These provisions act as a deterrent, making sure that employers think twice before denying benefits or illegally firing a pregnant employee. The sections regarding penalties and the process of taking a case to court (cognizance) are the "teeth" of this legislation.
+
+**Penalty to the Employer for Contravention of the Act**
+
+When an employer fails to follow the rules laid down in the Maternity Benefit Act, it is called a **Contravention (उल्लंघन - Ullanghan)**. Under Section 21 of the Act, various penalties are prescribed depending on the nature of the mistake.
+
+1. **Failure to Pay Benefits:** If an employer fails to pay the maternity benefit or the medical bonus that a woman is legally entitled to, they can be punished. The punishment includes **Imprisonment (कारावास - Karavas)** for a term which shall not be less than three months but which may extend to one year. Additionally, a **Fine (जुर्माना - Jurmana)** of between Rs. 2,000 and Rs. 5,000 may be imposed.
+
+2. **Illegal Dismissal or Discharge:** If an employer dismisses or discharges a woman worker solely because she is absent due to pregnancy or because she has asked for maternity benefits, it is a serious offense. The same level of punishment (imprisonment and fine) applies here as well.
+
+3. **General Violations:** For any other violation of the Act or the rules made under it (for which no specific penalty is provided elsewhere), the employer can be punished with imprisonment up to one year, or a fine up to Rs. 5,000, or both.
+
+The court also has the power to order the employer to pay the actual amount of maternity benefit or bonus to the woman in addition to the fine. This ensures that the woman gets her rightful money even if the employer is being punished by the state.
+
+**Complaint and Cognizance of Offences**
+
+The process of bringing an employer to court is governed by rules regarding **Complaint (शिकायत - Shikayat)** and **Cognizance (संज्ञान - Sangyan)**. 
+
+1. **Who can file a Complaint?**
+A complaint against an employer can be filed by:
+* The aggrieved woman herself.
+* An office-bearer of a registered trade union of which the woman is a member.
+* A voluntary organization (NGO) working for women's rights.
+* An Inspector appointed under the Act.
+
+2. **Time Limit (Limitation Period):** A complaint must be filed within a specific time. Generally, the complaint must be made within **one year** from the date on which the offense is alleged to have been committed. For example, if an employer refuses to pay the benefit on 1st January, the complaint should be filed by 1st January of the next year.
+
+3. **Cognizance by Courts:**
+Cognizance refers to the court's authority to take notice of an offense and start legal proceedings. Under Section 23, the law is very specific about which courts can hear these cases:
+* No court inferior to that of a **Metropolitan Magistrate** or a **Judicial Magistrate of the First Class** shall try any offense under this Act.
+* The court will only take cognizance if a written complaint is filed by the woman, an NGO, or the Inspector.
+
+The role of the **Inspector (निरीक्षक - Nirikshak)** is very important here. If an Inspector finds that an employer has violated the law, they can issue a notice. If the employer still doesn't comply, the Inspector can directly file a complaint in the court.
+
+**Conclusion**
+
+In conclusion, the provisions for penalties, complaints, and cognizance ensure that the Maternity Benefit Act is not just a piece of paper but a powerful shield for women workers. By prescribing **Imprisonment** and **Fines**, the law creates a fear of consequences for employers. By allowing not just the woman but also NGOs and Inspectors to file **Complaints**, the law ensures that even a woman who is afraid for her job can get justice through other channels. These legal safeguards are essential for maintaining a fair and humane working environment for mothers in India.
+
+### (i) A workman permanently disabled and he served 4 years and 7 months. His last drawn wages was Rs. 25,000. How much he will get gratuity? (ii) A workman did 43 years service in an industry and retired in 62 years age. His last drawn wages Rs. 37,000. Calculate the payable gratuity but he found the guilty for moral turpitude
+
+**Introduction**
+
+The Payment of Gratuity Act, 1972, is one of the most important social security legislations in India. **Gratuity (उपहार/अनुग्रह राशि - Gratuity)** is a lump-sum amount paid by an employer to an employee as a token of appreciation for the long and faithful service rendered to the organization. It is not a charity but a legal right of the worker earned through years of hard work. The Act applies to factories, mines, oilfields, plantations, ports, railways, and shops or establishments where ten or more persons are employed. To understand how much a worker receives, we must look at the specific formulas and conditions mentioned in the law, especially regarding the length of service and the conduct of the employee.
+
+**Main Body**
+
+**The Right to Gratuity and the Five-Year Rule**
+Under Section 4 of the Act, gratuity is normally payable to an employee only after they have rendered **Continuous Service (निरंतर सेवा - Nirantar Seva)** for at least five years. This service can end due to retirement, resignation, death, or disablement. However, there is a very important **Exception (अपवाद - Apvad)** to this five-year rule. If the services of an employee are terminated due to death or **Permanent Disablement (स्थायी विकलांगता - Sthayi Viklangta)**, the condition of five years of continuous service does not apply. In such cases, the employer must pay the gratuity even if the worker has worked for only a few months or years.
+
+**Calculation Formula for Gratuity**
+For employees who are paid monthly, the standard formula to calculate the amount is:
+**Gratuity = (Last Drawn Salary × 15 × Number of Years of Service) ÷ 26**
+Here, "Last Drawn Salary" includes Basic pay and Dearness Allowance (DA). The number "15" represents fifteen days of wages for every year, and "26" represents the number of working days in a month (excluding Sundays). Regarding the "Years of Service," if a worker has worked for more than six months in their final year, it is counted as a full year. If it is six months or less, that part is ignored.
+
+**Case (i): Permanent Disablement**
+In the first case, the workman has served for 4 years and 7 months. Usually, he would not be eligible because he hasn't completed 5 years. However, since he is **Permanently Disabled**, he is legally eligible for gratuity. 
+1. **Service Period:** 4 years and 7 months. Since 7 months is more than 6 months, we round it up to **5 years**.
+2. **Last Salary:** Rs. 25,000.
+3. **Calculation:** $(25,000 \times 15 \times 5) \div 26 = 18,75,000 \div 26 \approx \mathbf{Rs. 72,115}$.
+Therefore, despite not meeting the 5-year criteria, the worker will receive approximately Rs. 72,115 because of his disability.
+
+**Case (ii): Long Service and Moral Turpitude**
+In the second case, the worker has a massive service record of 43 years. However, the employer has a concern regarding **Moral Turpitude (नैतिक अधमता - Naitik Adhamta)**.
+1. **Service Period:** 43 years.
+2. **Last Salary:** Rs. 37,000.
+3. **Basic Calculation:** $(37,000 \times 15 \times 43) \div 26 = 2,38,65,000 \div 26 \approx \mathbf{Rs. 9,17,885}$.
+
+**The Rule of Forfeiture**
+Section 4(6) of the Act deals with **Forfeiture (जब्ती - Jabti)** of gratuity. It states that if an employee's services are terminated for any act, willful omission, or negligence causing damage or loss to the employer's property, the gratuity can be forfeited to the extent of that damage. 
+More importantly, Section 4(6)(b) says that the gratuity may be **Wholly or Partially Forfeited** if the employee’s services are terminated for an offense involving "moral turpitude," provided the offense was committed during the course of employment. However, legal precedents (like the Supreme Court's view) suggest that for an employer to withhold gratuity, the employee must have been **Terminated (बर्खास्त - Barkhast)** specifically for that reason. If the employee retired normally at age 62 and was only "found guilty" later or without a termination order based on that guilt, the employer may still have to pay. But if he was fired for moral turpitude, the employer can legally refuse to pay the entire Rs. 9,17,885.
+
+
+
+**Conclusion**
+
+In conclusion, the Payment of Gratuity Act ensures that workers are rewarded for their loyalty, but it also demands a certain standard of conduct. In the first scenario, the law acts as a **Social Safety Net**, bypassing the 5-year requirement to help a disabled worker. In the second scenario, the law protects the employer's interests by allowing the **Forfeiture** of funds if a worker is guilty of serious misconduct like moral turpitude. While the calculations provide a clear financial figure, the final payment always depends on whether the legal conditions for eligibility or forfeiture are met. Understanding these nuances is vital for ensuring that justice is served to both the employee and the employer in industrial relations.
+

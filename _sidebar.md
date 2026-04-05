@@ -1,13 +1,16 @@
+* **Semester 4 (Current)**
+  * [S04 Assignment](s04-assignment.md)
+  * [BSA](s04p01-eng.md)
+  * [Labour Laws - 2](s04p02-eng.md)
+  * [Company Law - 2](s04p03-eng.md)
+  * [CPC & Limitation Act - 2](s04p04-eng.md)
+  * [BNSS - 2](s04p05-eng.md)
+  * [Property Law](s04p06-eng.md)
+
+* **Semester 3 (Archive)**
+  * [Company Law - 1](s03p03.md)
+  * [CPC - 1](s03p04.md)
+  * [BNSS - 1](s03p05.md)
+  * [Interpretation of Statutes](s03p06.md)
+
 * [Home](README.md)
-* [s3p3 - Company law - 1](s03p03.md)
-* [s3p4 - CPC - 1](s03p04.md)
-* [s3p5 - BNNS - 1](s03p05.md)
-* [s3p6 - Interpretation of statutes](s03p06.md)
-* [s04-assignment](s04-assignment.md)
-* [s04p01 - BSA](s04p01-eng.md)
-* [s04p02 - Labour laws - 2](s04p02-eng.md)
-* [s04p03 - Company law - 2](s04p03-eng.md)
-* [s04p04 - CPC & Limitation act - 2](s04p04-eng.md)
-* [s04p05 - BNSS - 2](s04p05-eng.md)
-* [s04p06 - Property law](s04p06-eng.md)
-* 
